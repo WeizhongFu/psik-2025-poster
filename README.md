@@ -1,6 +1,6 @@
 # Pushing the Frontiers of Neural Network-based Quantum Monte Carlo
 
-**Poster presented at the 2025 PSIK Conference**
+**Poster presented at the Psi-k 2025 Conference**
 
 **Authors:** Weizhong Fu<sup>1,2</sup>, Ji Chen<sup>1</sup>, Weiluo Ren<sup>2</sup>, Ruichen Li<sup>1,2</sup>, Yuzhi Liu<sup>2</sup>, Xuelan Wen<sup>2</sup>, and Xiang Li<sup>2</sup>
 
